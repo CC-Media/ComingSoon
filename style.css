@@ -8,8 +8,8 @@
   }
   
   .neon-red {
-	--neon: hsl(355 100% 95%);
-	--neon-glow: hsl(355 98% 40%);
+	--neon: hsl(306 100% 95%);
+	--neon-glow: hsl(306 98% 40%);
   }
   
   .neon-blue {
